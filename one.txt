@@ -16,3 +16,9 @@ Some changes directly in master...
 
 This is for cherry pick test.
 This is for cherry pick test 02.
+
+func cherrypick () {
+	//this is a cherrypick func.
+}
+
+
