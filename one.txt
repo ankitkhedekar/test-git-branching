@@ -25,3 +25,6 @@ func cherrypick () {
 
 This is for cherry pick test 04.
 
+func cherrypick2 () {
+	// this is cherrypick func 2.
+}
