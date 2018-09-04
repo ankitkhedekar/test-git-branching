@@ -13,3 +13,6 @@ Making change 2
 Making change 3
 
 Some changes directly in master...
+
+This is for cherry pick test.
+This is for cherry pick test 02.
