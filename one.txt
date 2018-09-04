@@ -25,3 +25,5 @@ func cherrypick () {
 func cherrypick2 () {
 	// this is cherrypick func 2.
 }
+
+Updates due to hotfix.
